@@ -63,7 +63,7 @@ Ya por último procedemos a realizar diferentes graficas para asi poder tomar de
 En una última instancia se crea un datamart para dar respuesta a las preguntas de negocio, para ello se realiza joins entre tres de las tablas almacenadas en la base de datos sqlite, asi obtenemos los siguientes campos:
 *  id del a tabla stores, tipo de show, mes y año del estreno de la serie,genero de la serie, pais de la serie, conteo del numero de episodios por serie ( episodios emitidos en diciembre del 2020), promedio de la duración de los episodios de cada show, y promedio de calificacion de cada show. Asi mismo en la carpeta model se encuentra el diagrama ERD de las tablas
 
-** query realizado para crear tabla "tbl_datamart_shows"**
+**query realizado para crear tabla "tbl_datamart_shows"**
 
 SELECT s.id,
    s.name,
