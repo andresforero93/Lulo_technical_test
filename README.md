@@ -1,4 +1,4 @@
-# Mazetv - shows analysis
+# Tvmaze - shows analysis
 
 El propósito de este proyecto es hacer una extraccción,transformación y ánalisis de la API tvmaze donde se alberga información variada de series de todo el mundo.
 Asi mismo se pueden encontrar en este repositiorio las siguientes carpetas
